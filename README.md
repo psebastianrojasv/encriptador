@@ -1,10 +1,5 @@
 
 ## <div align="center">Encriptador de texto</div>
-## <div align="center">Construye un encriptador de texto con Javascript</div>
-## <div align="center">Este proyecto fue realizado con</div>
-
-[Demo](https://github.com/psebastianrojasv/encriptador.git/)
-</br></br></br>
 ## <div align="center">Este proyecto fue realizado con</div>
 
 <p align="center">
